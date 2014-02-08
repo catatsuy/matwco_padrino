@@ -47,6 +47,7 @@ GEM
     rack-protection (1.5.2)
       rack
     rake (10.1.1)
+    sass (3.2.14)
     sinatra (1.4.4)
       rack (~> 1.4)
       rack-protection (~> 1.4)
@@ -69,4 +70,5 @@ PLATFORMS
 DEPENDENCIES
   padrino (= 0.11.4)
   rake
+  sass
   slim
